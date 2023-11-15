@@ -1,4 +1,5 @@
-{"main": "teacher",
+{
+ "main": "teacher",
  "school":true,
  "student_id": 444,
  "bell_id": 331
