@@ -1,5 +1,6 @@
 {
-"type":"teacher",
-"school":true,
-"student_id":535
+ "main": "teacher",
+ "school":true,
+ "student_id": 444,
+ "bell_id": 331
 }
