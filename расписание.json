@@ -1,4 +1,5 @@
-{"main": "teacher",
- "schoool":false,
- "student_id": 124535
+{
+"type":"teacher",
+"school":true,
+"student_id":535
 }
